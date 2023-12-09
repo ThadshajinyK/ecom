@@ -1,0 +1,76 @@
+table{
+    margin-left: 80px;
+    width: 85%;
+}
+h2{
+    margin-left: 80px;
+    text-align: center;
+}
+
+a.one:link , a.one:visited{
+    color:white;
+    background-color:#5f3f43;
+    padding:5px;
+    display: inline-block;
+    text-decoration: none;
+    width:10%;
+    text-align:center;
+    margin-left: 80px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+
+a.one:hover{
+    background-color:red;
+}
+
+a.one:active{
+    background-color:pink;
+}
+
+a.two:link , a.two:visited{
+    color:white;
+    background-color:#0001f1;
+    padding:5px;
+    display: inline-block;
+    text-decoration: none;
+    width:100%;
+    text-align:center;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+}
+
+a.two:hover{
+    background-color:rgb(56, 163, 35);
+}
+
+a.two:active{
+    background-color:pink;
+}
+
+a.three:link , a.three:visited{
+    color:rgb(0, 0, 0);
+    background-color:#00f7ff;
+    padding:5px;
+    display: inline-block;
+    text-decoration: none;
+    width:100%;
+    text-align:center;
+    margin-bottom: 5px;
+    border-radius: 7px;
+}
+
+a.three:hover{
+    background-color:rgb(146, 0, 97);
+}
+
+a.three:active{
+    background-color:pink;
+}
+
+tr.two{
+    color: white;
+    background-color: #993333;
+    text-align: center;
+}

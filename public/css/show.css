@@ -1,0 +1,51 @@
+table{
+    text-align: center;
+    width: 30%;
+    margin-top: 25px;
+}
+
+tr.one{
+    background-color: #b9493c;
+    color: white;
+}
+
+a.one:link , a.one:visited{
+    color:white;
+    background-color:#9616ff;
+    padding:5px;
+    display: inline-block;
+    text-decoration: none;
+    width:5%;
+    text-align:center;
+    margin-left: 610px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+a.one:hover{
+    background-color:red;
+}
+
+a.one:active{
+    background-color:pink;
+}
+
+a.two:link , a.two:visited{
+    color:white;
+    background-color:#2842d6;
+    padding:5px;
+    display: inline-block;
+    text-decoration: none;
+    width:5%;
+    text-align:center;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+a.two:hover{
+    background-color:red;
+}
+
+a.two:active{
+    background-color:pink;
+}

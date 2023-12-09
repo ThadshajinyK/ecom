@@ -1,0 +1,33 @@
+table{
+    background:url(../photoes/1.jpg) no-repeat;
+    width: 85%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+form{
+    width: 55%;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+a.one:link , a.one:visited{
+    color:white;
+    background-color:#9616ff;
+    padding:5px;
+    display: inline-block;
+    text-decoration: none;
+    width:10%;
+    text-align:center;
+    margin-left: 300px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+a.one:hover{
+    background-color:red;
+}
+
+a.one:active{
+    background-color:pink;
+}
